@@ -1,2 +1,2 @@
 # Accounting-Software-Basic-
-Its A Accounting Software Project 
+Its An Accounting Software Project 
